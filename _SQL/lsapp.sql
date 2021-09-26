@@ -1,6 +1,5 @@
 -- phpMyAdmin SQL Dump
 -- version 4.6.5.2
--- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
 -- Generation Time: Jun 18, 2017 at 01:25 AM
